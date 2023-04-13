@@ -28,6 +28,10 @@ MeconAudioデータセットを論文や報告書で引用する場合は、以�
 
 山田 太郎, MeconAudio Dataset, https://github.com/username/MeconAudio, 2023
 
+## 出典
+
+「先進医療会議」（厚生労働省）https://www.mhlw.go.jp/stf/shingi/other-hoken_129195.html （2023年4月13日に利用）を加工して作成
+
 ## お問い合わせ
 
 商用利用の許可やデータセットに関する質問がある場合は、以下の連絡先までお問い合わせください。
