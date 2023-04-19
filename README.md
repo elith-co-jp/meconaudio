@@ -28,12 +28,30 @@ MeconAudioデータセットは、先進医療会議での発表内容を録音�
 ### ダウンロード
 
 - 無料公開セット(m001のみ)の非商用利用:
-  * 以下のリンクからダウンロードしてください。
+  * 以下のリンクからzipファイルをダウンロードし、解凍してご利用ください。
     * https://drive.google.com/drive/folders/1AbzntbI_xQl7O0GbuTrFzOMe9i9NAU-2?usp=sharing
 - 無料公開セット(m001のみ)の商用利用:
   * ページ最下部の記載よりお問い合わせください。
 - 有償セット(m001~m005):
   * ページ最下部の記載よりお問い合わせください。
+
+### ディレクトリ構成
+- /dataset/
+  - wav/ ( 音声ファイル)
+    - m001-0001.wav ~ m005-xxxx.wav ※無料公開セットはm001のみ
+  - text/ (テキストファイル)
+    - transcribe-text.txt
+    - transcribe-text-without-symbol.txt
+    - transcribe-hiragana.txt
+
+### 音声ファイル
+- 周波数：16kHz
+- サンプルサイズ：16bit
+
+### テキストファイル
+- transcribe-text.txt・・・ 漢字カナ混じり(記号あり)
+- transcribe-text-without-symbol.txt・・・ 漢字カナ混じり(記号なし)
+- transcribe-hiragana.txt (ひらがなのみ）
 
 ## 引用方法
 
