@@ -41,7 +41,6 @@ MeconAudioデータセットは、先進医療会議での発表内容を録音�
     - m001-0001.wav ~ m005-xxxx.wav ※無料公開セットはm001のみ
   - text/ (テキストファイル)
     - transcribe-text.txt
-    - transcribe-text-without-symbol.txt
     - transcribe-hiragana.txt
 
 ### 音声ファイル
@@ -50,14 +49,13 @@ MeconAudioデータセットは、先進医療会議での発表内容を録音�
 
 ### テキストファイル
 - transcribe-text.txt・・・ 漢字カナ混じり(記号あり)
-- transcribe-text-without-symbol.txt・・・ 漢字カナ混じり(記号なし)
 - transcribe-hiragana.txt (ひらがなのみ）
 
 ## 引用方法
 
 MeconAudioデータセットを論文や報告書で引用する場合は、以下の形式で引用してください。
 
-山田 太郎, MeconAudio Dataset, https://github.com/username/MeconAudio, 2023
+Elith Inc., Mecon Audio, https://github.com/elith-co-jp/meconaudio, 2023
 
 ## 出典
 
