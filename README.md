@@ -29,7 +29,7 @@ MeconAudioデータセットは、先進医療会議での発表内容を録音�
 
 - 無料公開セット(m001のみ)の非商用利用:
   * 以下のリンクからzipファイルをダウンロードし、解凍してご利用ください。
-    * https://drive.google.com/drive/folders/1AbzntbI_xQl7O0GbuTrFzOMe9i9NAU-2?usp=sharing
+    * [v1-20230422-no_charge.zip](https://drive.google.com/file/d/1fR3Y-TRdow9T9Se2HQVwHIbJrZBijvV5/view?usp=share_link)
 - 無料公開セット(m001のみ)の商用利用:
   * ページ最下部の記載よりお問い合わせください。
 - 有償セット(m001~m005):
