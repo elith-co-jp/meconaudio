@@ -4,11 +4,4 @@ Audio data (wav files) and hiragana-only text data (transcribe-hiragana.txt) may
 - Personal use for non-commercial purposes
 
 The mixed kanji-kana text data (transcribe-text.txt) is licensed under CC BY in accordance with the copyright of the "Advanced Medical Conference".
-         
-音声データ(wavファイル)とひらがなのみのテキストデータ(transcribe-hiragana.txt)は、以下の場合に限り使用可能です。
-- アカデミック機関での研究
-- 営利団体での研究も含む非商用目的の研究
-- 非商用目的での個人での利用
-
-漢字カナ混じりのテキストデータ(transcribe-text.txt)は、「先進医療会議」の著作権に従い、CC BYとします。
 
