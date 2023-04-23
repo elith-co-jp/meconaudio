@@ -1,6 +1,6 @@
 # Mecon Audio
 
-Mecon Audio(Medical Conference Audio)は厚生労働省主催の先進医療会議の議事録の読み上げデータセットです。
+Mecon Audio(Medical Conference Audio)は厚生労働省主催の先進医療会議の議事録の日本語での読み上げデータセットです。
 
 24歳の女性話者1人に、2012年から2013年(一部)の議事録である2954文を読み上げてもらいました。
 
@@ -62,7 +62,7 @@ MeconAudioデータセットは、「先進医療会議」での発表内容を�
 ライセンスの詳細は[LICENSE](https://github.com/elith-co-jp/meconaudio/blob/main/LICENSE)ファイルをご覧ください。
 
 ## 商用利用
-商用利用を歓迎しております。下記のお問い合わせからご相談ください。。
+商用利用を歓迎しております。下記のお問い合わせからご相談ください。
 
 ## 引用方法
 
