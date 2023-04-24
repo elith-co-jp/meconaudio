@@ -82,6 +82,6 @@ Elith Inc., Mecon Audio, https://github.com/elith-co-jp/meconaudio, 2023
 ```
 お名前：
 ご所属：
-希望データセット：Mecon Audio フルセット(m001 ~ m001)
+希望データセット：Mecon Audio フルセット(m001 ~ m005)
 利用目的： ※1)非商用利用または研究目的 または 2)商用利用 のいずれかを明記した上で、ご利用目的の詳細をお知らせください
 ```
